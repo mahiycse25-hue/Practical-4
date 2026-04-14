@@ -1,0 +1,15 @@
+<div class="flashcard-container">
+  <div class="flashcard-inner">
+    
+    <div class="flashcard-front">
+      <span class="label">English</span>
+      <h2 class="word">Ephemeral</h2>
+    </div>
+
+    <div class="flashcard-back">
+      <span class="label">Spanish</span>
+      <h2 class="word">Efímero</h2>
+    </div>
+
+  </div>
+</div>
